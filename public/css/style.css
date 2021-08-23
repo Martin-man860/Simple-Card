@@ -1,0 +1,10 @@
+.one{
+	border: solid black;
+	height: 20vh;
+	border-radius: 10px;
+	font-style: italic;
+}
+
+.two{
+	font-style: italic;
+}
